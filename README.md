@@ -31,7 +31,6 @@ With FlySky Reservations, you can:
 | 📦 **Installer**          | NSIS-built setup wizard with uninstaller and desktop shortcut |
 
 ---
-***
 
 ## Technology Stack
 
